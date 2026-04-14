@@ -1,0 +1,11 @@
+SHOT TYPE: Extreme Close-Up
+SUBJECT: Elena
+ACTION: Laying on the hospital bed
+STYLE: David Fincher cinematography, shot on Arri Alexa
+CAMERA MOVEMENT: Pull Out
+AUDIO: Beeping Monitor 80 bpm gradually increasing, shallow breath through oxygen mask, constant low-frequency fluorescent light buzz, faint fluorescent light buzz in background
+
+--no watermark --no warped face --no floating limbs --no text artifacts --no distorted hands --no blurry edges --no music
+1000
+
+
